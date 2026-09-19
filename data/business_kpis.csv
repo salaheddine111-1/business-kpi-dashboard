@@ -1,0 +1,7 @@
+Transaction_ID,Customer_ID,Date,Product_Category,Order_Value,Region
+TXN-00001,1245,2025-01-05,Analytics Tool,145.50,North America
+TXN-00002,1120,2025-01-12,Cloud Storage,89.20,Europe
+TXN-00003,1350,2025-02-01,Support Package,210.00,Asia-Pacific
+TXN-00004,1011,2025-02-15,Analytics Tool,320.10,North America
+TXN-00005,1422,2025-03-03,Automation Module,450.00,Middle East
+TXN-00006,1245,2025-03-20,Cloud Storage,75.50,Europe
